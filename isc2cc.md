@@ -1,4 +1,4 @@
-# CISSP Notes
+# ISC2CC Notes
 
 ## CIA Triad
 * Confidentiality
