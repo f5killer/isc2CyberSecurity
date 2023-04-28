@@ -6,6 +6,7 @@ Go to link: https://github.com/f5killer/isc2CyberSecurity/blob/main/isc2cc.md
 
 |[![YT Subscribe](https://github.com/f5killer/isc2CyberSecurity/blob/main/YT.png)](https://www.youtube.com/watch?v=_pSUs3tRTuo&list=PLp0Kqt2EWTuGSAydNzCjBA2Brsz4E6keC)
 
+
 # Please read the notes and 
 
 Hello guys, this is a new guide that I have created for those who are interested in taking the ISC2 Cyber Security exam of ISC2. 
